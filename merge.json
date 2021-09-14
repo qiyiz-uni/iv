@@ -1,0 +1,114 @@
+[
+  {
+    "track": 12,
+    "sc_recent_time": "Banshee Boardwalk",
+    "sc_first_time": "",
+    "no_sc_recent_time": "",
+    "no_sc_first_time": 124.1
+  },
+  {
+    "track": 13,
+    "sc_recent_time": "Bowser's Castle",
+    "sc_first_time": "",
+    "no_sc_recent_time": "",
+    "no_sc_first_time": 43.15
+  },
+  {
+    "track": 0,
+    "sc_recent_time": "Choco Mountain",
+    "sc_first_time": 17.29,
+    "no_sc_recent_time": 111.26,
+    "no_sc_first_time": 38.02
+  },
+  {
+    "track": 1,
+    "sc_recent_time": "D.K.'s Jungle Parkway",
+    "sc_first_time": 42.04,
+    "no_sc_recent_time": 46.08,
+    "no_sc_first_time": 42.04
+  },
+  {
+    "track": 2,
+    "sc_recent_time": "Frappe Snowland",
+    "sc_first_time": 23.61,
+    "no_sc_recent_time": 42,
+    "no_sc_first_time": 38.27
+  },
+  {
+    "track": 3,
+    "sc_recent_time": "Kalimari Desert",
+    "sc_first_time": 38.96,
+    "no_sc_recent_time": 41.76,
+    "no_sc_first_time": 38.96
+  },
+  {
+    "track": 14,
+    "sc_recent_time": "Koopa Troopa Beach",
+    "sc_first_time": "",
+    "no_sc_recent_time": "",
+    "no_sc_first_time": 30.78
+  },
+  {
+    "track": 4,
+    "sc_recent_time": "Luigi Raceway",
+    "sc_first_time": 25.3,
+    "no_sc_recent_time": 39.86,
+    "no_sc_first_time": 37.58
+  },
+  {
+    "track": 5,
+    "sc_recent_time": "Mario Raceway",
+    "sc_first_time": 58.49,
+    "no_sc_recent_time": 67.92,
+    "no_sc_first_time": 27.62
+  },
+  {
+    "track": 15,
+    "sc_recent_time": "Moo Moo Farm",
+    "sc_first_time": "",
+    "no_sc_recent_time": "",
+    "no_sc_first_time": 85.93
+  },
+  {
+    "track": 6,
+    "sc_recent_time": "Rainbow Road",
+    "sc_first_time": 50.38,
+    "no_sc_recent_time": 287.02,
+    "no_sc_first_time": 351.87
+  },
+  {
+    "track": 7,
+    "sc_recent_time": "Royal Raceway",
+    "sc_first_time": 55.5,
+    "no_sc_recent_time": 134.61,
+    "no_sc_first_time": 171.25
+  },
+  {
+    "track": 8,
+    "sc_recent_time": "Sherbet Land",
+    "sc_first_time": 37.72,
+    "no_sc_recent_time": 41.39,
+    "no_sc_first_time": 37.72
+  },
+  {
+    "track": 9,
+    "sc_recent_time": "Toad's Turnpike",
+    "sc_first_time": 30.31,
+    "no_sc_recent_time": 183.96,
+    "no_sc_first_time": 177.8
+  },
+  {
+    "track": 10,
+    "sc_recent_time": "Wario Stadium",
+    "sc_first_time": 85.82,
+    "no_sc_recent_time": 92.77,
+    "no_sc_first_time": 85.82
+  },
+  {
+    "track": 11,
+    "sc_recent_time": "Yoshi Valley",
+    "sc_first_time": 33.35,
+    "no_sc_recent_time": 37.33,
+    "no_sc_first_time": 102.13
+  }
+]
