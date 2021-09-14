@@ -1,114 +1,114 @@
 [
   {
-    "track": 12,
-    "sc_recent_time": "Banshee Boardwalk",
+    "track": "Banshee Boardwalk",
+    "sc_recent_time": "",
     "sc_first_time": "",
-    "no_sc_recent_time": "",
-    "no_sc_first_time": 124.1
+    "no_sc_recent_time": 124.1,
+    "no_sc_first_time": 44.71
   },
   {
-    "track": 13,
-    "sc_recent_time": "Bowser's Castle",
+    "track": "Bowser's Castle",
+    "sc_recent_time": "",
     "sc_first_time": "",
-    "no_sc_recent_time": "",
-    "no_sc_first_time": 43.15
+    "no_sc_recent_time": 43.15,
+    "no_sc_first_time": 46.06
   },
   {
-    "track": 0,
-    "sc_recent_time": "Choco Mountain",
-    "sc_first_time": 17.29,
-    "no_sc_recent_time": 111.26,
-    "no_sc_first_time": 38.02
-  },
-  {
-    "track": 1,
-    "sc_recent_time": "D.K.'s Jungle Parkway",
-    "sc_first_time": 42.04,
-    "no_sc_recent_time": 46.08,
+    "track": "Choco Mountain",
+    "sc_recent_time": 17.29,
+    "sc_first_time": 111.26,
+    "no_sc_recent_time": 38.02,
     "no_sc_first_time": 42.04
   },
   {
-    "track": 2,
-    "sc_recent_time": "Frappe Snowland",
-    "sc_first_time": 23.61,
-    "no_sc_recent_time": 42,
-    "no_sc_first_time": 38.27
+    "track": "D.K.'s Jungle Parkway",
+    "sc_recent_time": 42.04,
+    "sc_first_time": 46.08,
+    "no_sc_recent_time": 42.04,
+    "no_sc_first_time": 50.07
   },
   {
-    "track": 3,
-    "sc_recent_time": "Kalimari Desert",
-    "sc_first_time": 38.96,
-    "no_sc_recent_time": 41.76,
-    "no_sc_first_time": 38.96
+    "track": "Frappe Snowland",
+    "sc_recent_time": 23.61,
+    "sc_first_time": 42,
+    "no_sc_recent_time": 38.27,
+    "no_sc_first_time": 44.1
   },
   {
-    "track": 14,
-    "sc_recent_time": "Koopa Troopa Beach",
+    "track": "Kalimari Desert",
+    "sc_recent_time": 38.96,
+    "sc_first_time": 41.76,
+    "no_sc_recent_time": 38.96,
+    "no_sc_first_time": 42.25
+  },
+  {
+    "track": "Koopa Troopa Beach",
+    "sc_recent_time": "",
     "sc_first_time": "",
-    "no_sc_recent_time": "",
-    "no_sc_first_time": 30.78
+    "no_sc_recent_time": 30.78,
+    "no_sc_first_time": 32.79
   },
   {
-    "track": 4,
-    "sc_recent_time": "Luigi Raceway",
-    "sc_first_time": 25.3,
-    "no_sc_recent_time": 39.86,
-    "no_sc_first_time": 37.58
+    "track": "Luigi Raceway",
+    "sc_recent_time": 25.3,
+    "sc_first_time": 39.86,
+    "no_sc_recent_time": 37.58,
+    "no_sc_first_time": 128.99
   },
   {
-    "track": 5,
-    "sc_recent_time": "Mario Raceway",
-    "sc_first_time": 58.49,
-    "no_sc_recent_time": 67.92,
-    "no_sc_first_time": 27.62
+    "track": "Mario Raceway",
+    "sc_recent_time": 58.49,
+    "sc_first_time": 67.92,
+    "no_sc_recent_time": 27.62,
+    "no_sc_first_time": 30.02
   },
   {
-    "track": 15,
-    "sc_recent_time": "Moo Moo Farm",
+    "track": "Moo Moo Farm",
+    "sc_recent_time": "",
     "sc_first_time": "",
-    "no_sc_recent_time": "",
-    "no_sc_first_time": 85.93
+    "no_sc_recent_time": 85.93,
+    "no_sc_first_time": 30.29
   },
   {
-    "track": 6,
-    "sc_recent_time": "Rainbow Road",
-    "sc_first_time": 50.38,
-    "no_sc_recent_time": 287.02,
-    "no_sc_first_time": 351.87
+    "track": "Rainbow Road",
+    "sc_recent_time": 50.38,
+    "sc_first_time": 287.02,
+    "no_sc_recent_time": 351.87,
+    "no_sc_first_time": 124.54
   },
   {
-    "track": 7,
-    "sc_recent_time": "Royal Raceway",
-    "sc_first_time": 55.5,
-    "no_sc_recent_time": 134.61,
-    "no_sc_first_time": 171.25
+    "track": "Royal Raceway",
+    "sc_recent_time": 55.5,
+    "sc_first_time": 134.61,
+    "no_sc_recent_time": 171.25,
+    "no_sc_first_time": 60.85
   },
   {
-    "track": 8,
-    "sc_recent_time": "Sherbet Land",
-    "sc_first_time": 37.72,
-    "no_sc_recent_time": 41.39,
-    "no_sc_first_time": 37.72
+    "track": "Sherbet Land",
+    "sc_recent_time": 37.72,
+    "sc_first_time": 41.39,
+    "no_sc_recent_time": 37.72,
+    "no_sc_first_time": 41.39
   },
   {
-    "track": 9,
-    "sc_recent_time": "Toad's Turnpike",
-    "sc_first_time": 30.31,
-    "no_sc_recent_time": 183.96,
-    "no_sc_first_time": 177.8
+    "track": "Toad's Turnpike",
+    "sc_recent_time": 30.31,
+    "sc_first_time": 183.96,
+    "no_sc_recent_time": 177.8,
+    "no_sc_first_time": 62.84
   },
   {
-    "track": 10,
-    "sc_recent_time": "Wario Stadium",
-    "sc_first_time": 85.82,
-    "no_sc_recent_time": 92.77,
-    "no_sc_first_time": 85.82
+    "track": "Wario Stadium",
+    "sc_recent_time": 85.82,
+    "sc_first_time": 92.77,
+    "no_sc_recent_time": 85.82,
+    "no_sc_first_time": 92.77
   },
   {
-    "track": 11,
-    "sc_recent_time": "Yoshi Valley",
-    "sc_first_time": 33.35,
-    "no_sc_recent_time": 37.33,
-    "no_sc_first_time": 102.13
+    "track": "Yoshi Valley",
+    "sc_recent_time": 33.35,
+    "sc_first_time": 37.33,
+    "no_sc_recent_time": 102.13,
+    "no_sc_first_time": 120.65
   }
 ]
